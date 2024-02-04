@@ -164,10 +164,10 @@ packages:
     dependency: "direct main"
     description:
       name: shake
-      sha256: "4c3b9477d72b88e5108a3f13c8cadfa83355bed50b26087166628602f4e261af"
+      sha256: "107546951c6b8f5e4c2dca66dfb3aa27dd1a853b4e9a26c9aea224b167045023"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.0"
+    version: "2.2.0"
   sky_engine:
     dependency: transitive
     description: flutter

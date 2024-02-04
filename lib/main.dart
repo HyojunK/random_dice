@@ -13,9 +13,10 @@ void main() {
           inactiveTrackColor: primaryColor.withOpacity(0.3),
         ),
         bottomNavigationBarTheme: BottomNavigationBarThemeData(
-            selectedItemColor: primaryColor,
-            unselectedItemColor: secondaryColor,
-            backgroundColor: backgroundColor),
+          selectedItemColor: primaryColor,
+          unselectedItemColor: secondaryColor,
+          backgroundColor: backgroundColor,
+        ),
       ),
       home: const RootScreen(),
     ),
